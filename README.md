@@ -1,4 +1,6 @@
-A react app for to learn how Redux works, following this crashcourse: https://www.youtube.com/watch?v=93p3LxR9xfM by Brad Traversy
+A react app for to learn how Redux works, following this crashcourse: https://www.youtube.com/watch?v=93p3LxR9xfM by Brad Traversy.
+
+Skip React setup and start with Redux: https://www.youtube.com/watch?v=93p3LxR9xfM&feature=youtu.be&t=1406 (commit #850b616)
 
 ---
 
